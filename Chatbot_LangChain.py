@@ -1,4 +1,4 @@
-openai_key ='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'
+openai_key =''
 
 ## Integrate our code OpenAI API
 import os
